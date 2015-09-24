@@ -1,16 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package oleksandr_lukash.java.lesson1.task3;
 
 import java.util.Scanner;
 
-/**
- *Lesson1 task3 CalculatorRunner
- * @author Sasha
- */
 public class CalculatorRunner {
     private Calculator calc;
     public static void main(String[] args) {
